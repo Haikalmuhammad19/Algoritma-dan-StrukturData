@@ -1,3 +1,7 @@
+// Nama  : Haikal Muhammad Kurnaiwan
+// NIM   : 20220040008
+// Kelas : TI22M
+
 import java.util.Arrays;
 
 public class selection {
